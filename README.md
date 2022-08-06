@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Vuejs, Nuxtjs and Rust**
 
-- 💬 Ask me about **javascript, react, vue and css**
+- 💬 Ask me about **javascript, react, vue, css and MERN stack**
 
 - 📫 How to reach me **diomarfvr@gmail.com**
 
