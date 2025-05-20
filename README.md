@@ -12,10 +12,10 @@
 - ⚡ Fun fact **I love making coffee 💞**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://dev.to/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flashamarillo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/diomardev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diomar-felipe-villarroel-58abba93/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diomardev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diomardev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
