@@ -44,7 +44,7 @@
   <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/></a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35"/></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="35" height="35"/></a>
-  <a href="https://vitest.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vitest-dev/vitest/main/docs/public/logo.svg" alt="jest" width="35" height="35"/></a>
+  <a href="https://vitest.dev" target="_blank" rel="noreferrer"><img src="https://github.com/vitest-dev/vitest/blob/main/docs/public/logo.svg" alt="vitest" width="35" height="35"/></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="35" height="35"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/></a>
   <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg" alt="zustand" width="35" height="35"/></a>
