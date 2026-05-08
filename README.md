@@ -2,9 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Diomar😊</h1>
 
+###
+
 <h3 align="center">A passionate frontend developer from Caracas, Venezuela</h3>
 
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashamarillo&label=Profile%20views&color=0e75b6&style=flat" alt="flashamarillo" /> </p>
+
+###
 
 - 🌱 I’m currently learning **Clean Architecture and design patterns oriented to fronted and C++**
 
@@ -18,7 +24,7 @@
 
 ###
 
-<div style="display: flex;justify-content: center;">
+<div align="center" style="display: flex;justify-content: center;">
 <a href="https://codepen.io/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://dev.to/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diomardev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diomardev" height="30" width="40" /></a>
