@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center" style="justify-content: center;display: flex;">
+<div align="center" style="display: flex;justify-content: center;">
 <a href="https://codepen.io/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://dev.to/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diomardev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diomardev" height="30" width="40" /></a>
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left" style="justify-content: center;display: flex;">
+<div align="left" style="display: flex;justify-content: center;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" width="35" height="35"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/></a>
@@ -50,7 +50,7 @@
 
 ###
 
-<div align="left" style="justify-content: center;display: flex;">
+<div align="left" style="display: flex;justify-content: center;">
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35"/>
