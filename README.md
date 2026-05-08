@@ -9,19 +9,27 @@
 
 - ⚡ Fun fact **I love coffee, read fantasy books and videogames  💞**
 
+###
+
 <h3 align="center">📫 Connect with me:</h3>
-<p align="center">
+
+###
+
+<div align="center">
 <a href="https://codepen.io/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://dev.to/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diomardev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diomardev" height="30" width="40" /></a>
   &nbsp;
 <a href="mailto:diomarfvr@gmail.com"><img align="center" src="https://img.shields.io/badge/-diomarfvr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+</div>
 
 <h3 align="left">💻 Languages and tools I work with:</h3>
 
 ***Backend***
-<p>
+
+###
+
+<div align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" width="35" height="35"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/></a>
@@ -31,10 +39,15 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35" height="35"/></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/></a>
-</p>
+</div>
+
+###
 
 ***Frontend***
-<p>
+
+###
+
+<div align="left">
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35"/>
@@ -48,6 +61,8 @@
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="35" height="35"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/></a>
   <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg" alt="zustand" width="35" height="35"/></a>
-</p>
+</div>
+
+###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flashamarillo&show_icons=true&locale=en&layout=compact" alt="flashamarillo" /></p>
