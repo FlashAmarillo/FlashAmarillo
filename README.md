@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center" style="display: flex;justify-content: center;">
+<div style="display: flex;justify-content: center;">
 <a href="https://codepen.io/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://dev.to/flashamarillo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flashamarillo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diomardev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diomardev" height="30" width="40" /></a>
@@ -26,7 +26,11 @@
 <a href="mailto:diomarfvr@gmail.com"><img align="center" src="https://img.shields.io/badge/-diomarfvr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
+###
+
 <h3 align="left">💻 Languages and tools I work with:</h3>
+
+###
 
 ***Backend***
 
